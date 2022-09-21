@@ -3,6 +3,18 @@
   "meta_description": "",
   "sections": [
     {
+      "type": "banner-slider",
+      "autoplay": 9000,
+      "full_width": false,
+      "slides": [
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/d65b5a14-61c7-4c8c-b74d-7e3b474ab56a.jpeg"
+        }
+      ]
+    },
+    {
       "type": "info-bar",
       "enabled": true
     },
@@ -14,13 +26,6 @@
       "collection_id": "625835fd3da6d37bc2dd7c6d:categories:LUBRIFICANTES:/lubrificantes",
       "sort": "highest_price",
       "headless": false
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 12,
-      "page": 1,
-      "collection_id": "62570c642e405e04ff3dd2c6:categories:EXCITANTE:/excitante"
     },
     {
       "type": "collection-shelf",
@@ -43,6 +48,13 @@
       "page": 1,
       "collection_id": "625704a32e405e04ff3db154:categories:FANTASIAS & LINGERIES:/fantasias-e-lingeries",
       "sort": "highest_price"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "62570c642e405e04ff3dd2c6:categories:EXCITANTE:/excitante"
     },
     {
       "type": "collection-shelf",
