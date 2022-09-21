@@ -15,10 +15,6 @@
       ]
     },
     {
-      "type": "info-bar",
-      "enabled": true
-    },
-    {
       "type": "collection-shelf",
       "shuffle": false,
       "limit": 12,
@@ -109,6 +105,10 @@
       "page": 1,
       "collection_id": "62c2d519eb8591121673df06:categories:50% de desconto:/50-de-desconto",
       "sort": "slug"
+    },
+    {
+      "type": "info-bar",
+      "enabled": true
     }
   ]
 }
