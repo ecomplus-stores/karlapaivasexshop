@@ -1,7 +1,7 @@
 {
   "domain": "karlapaivasexshop.netlify.app",
   "currency_symbol": "R$",
-  "primary_color": "#ff1078",
+  "primary_color": "#ffffff",
   "theme": {
     "bootswatch": "_",
     "custom": "clean-dark"
@@ -17,7 +17,7 @@
   "favicon": "/img/uploads/b40a3609-efca-474c-bc6a-6353c28e502c.jpeg",
   "icons_font": "_",
   "country_code": "BR",
-  "secondary_color": "#0a0909",
+  "secondary_color": "#ff006b",
   "icon": "/img/uploads/b40a3609-efca-474c-bc6a-6353c28e502c.jpeg",
   "store_id": 50143,
   "description": "Loja de bem estar sexual para maiores de 18 anos",
