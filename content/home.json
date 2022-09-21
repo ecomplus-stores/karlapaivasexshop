@@ -3,18 +3,6 @@
   "meta_description": "",
   "sections": [
     {
-      "type": "banner-slider",
-      "autoplay": 9000,
-      "full_width": false,
-      "slides": [
-        {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/4d7f82f6-0708-41a6-97e6-bbec104fc216.jpeg"
-        }
-      ]
-    },
-    {
       "type": "collection-shelf",
       "shuffle": false,
       "limit": 12,
@@ -29,6 +17,82 @@
       "limit": 12,
       "page": 1,
       "collection_id": "62570c642e405e04ff3dd2c6:categories:EXCITANTE:/excitante"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "62586db93da6d37bc2de18e5:categories:ANAL:/anal"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "6258a9923da6d37bc2de950d:categories:ORAL:/oral"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "625704a32e405e04ff3db154:categories:FANTASIAS & LINGERIES:/fantasias-e-lingeries",
+      "sort": "highest_price"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "6257060d2e405e04ff3db599:categories:VIBRADOR:/vibrador"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "625962803da6d37bc2df267c:categories:ACESSÓRIOS:/acessorios",
+      "sort": "views"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "62598fa63da6d37bc2df6964:categories:PRÓTESE:/protese",
+      "sort": "slug"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "625991fc3da6d37bc2df6d83:categories:HIGIENE PESSOAL:/higiene-pessoal",
+      "sort": "lowest_price"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "62587e2d3da6d37bc2de464c:categories:SADO:/sado"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "626942973da6d37bc20fab63:categories:TATUAGEM TEMPORÁRIA:/adesivos-para-a-pele",
+      "sort": "offers"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "62c2d519eb8591121673df06:categories:50% de desconto:/50-de-desconto",
+      "sort": "slug"
     }
   ]
 }
