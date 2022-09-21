@@ -1,13 +1,13 @@
 {
   "domain": "karlapaivasexshop.netlify.app",
   "currency_symbol": "R$",
-  "primary_color": "#ff0074",
+  "primary_color": "#000000",
   "theme": {
     "bootswatch": "_",
-    "custom": "clean-dark"
+    "custom": "clean-white"
   },
   "bg_color": "#fbfbfb",
-  "logo": "/img/uploads/20e9f1e0-3a2d-40a4-b342-2dc4372558e5.jpeg",
+  "logo": "/img/uploads/4d7f82f6-0708-41a6-97e6-bbec104fc216.jpeg",
   "name": "Karla Paiva Sex Shop",
   "short_name": "karlapaivasexshop",
   "lang": "pt_br",
@@ -17,7 +17,7 @@
   "favicon": "/img/uploads/b40a3609-efca-474c-bc6a-6353c28e502c.jpeg",
   "icons_font": "_",
   "country_code": "BR",
-  "secondary_color": "#ffffff",
+  "secondary_color": "#ff007c",
   "icon": "/img/uploads/b40a3609-efca-474c-bc6a-6353c28e502c.jpeg",
   "store_id": 50143,
   "description": "Loja de bem estar sexual para maiores de 18 anos",
