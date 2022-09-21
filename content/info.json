@@ -1,18 +1,20 @@
 {
   "shipping": {
     "show": true,
-    "text": ""
+    "text": "",
+    "title": "Frete Grátis para o Piauí em compras acima de R$150,00"
   },
   "installments": {
     "show": true,
-    "text": ""
+    "text": "",
+    "title": "3 vezes sem juros "
   },
   "exchange": {
-    "show": true,
+    "show": false,
     "text": ""
   },
   "promo": {
-    "show": true,
+    "show": false,
     "text": ""
   }
 }
