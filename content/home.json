@@ -1,5 +1,34 @@
 {
   "meta_title": "",
   "meta_description": "",
-  "sections": []
+  "sections": [
+    {
+      "type": "banner-slider",
+      "autoplay": 9000,
+      "full_width": false,
+      "slides": [
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/4d7f82f6-0708-41a6-97e6-bbec104fc216.jpeg"
+        }
+      ]
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "625835fd3da6d37bc2dd7c6d:categories:LUBRIFICANTES:/lubrificantes",
+      "sort": "highest_price",
+      "headless": false
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "62570c642e405e04ff3dd2c6:categories:EXCITANTE:/excitante"
+    }
+  ]
 }
