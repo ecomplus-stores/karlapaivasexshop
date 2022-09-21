@@ -1,12 +1,12 @@
 {
   "domain": "karlapaivasexshop.netlify.app",
   "currency_symbol": "R$",
-  "primary_color": "#ffffff",
+  "primary_color": "#fffcfc",
   "theme": {
     "bootswatch": "_",
-    "custom": "clean-dark"
+    "custom": "_"
   },
-  "bg_color": "#ffffff",
+  "bg_color": "#fbfbfb",
   "logo": "/img/uploads/20e9f1e0-3a2d-40a4-b342-2dc4372558e5.jpeg",
   "name": "Karla Paiva Sex Shop",
   "short_name": "karlapaivasexshop",
