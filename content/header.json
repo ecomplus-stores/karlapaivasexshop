@@ -6,17 +6,7 @@
     "color": "#ff0086"
   },
   "contacts_stripe": {
-    "pages": [
-      {
-        "title": "Horário de funcionamento, das 10h às 13h, das 14h até as 18h",
-        "link": ""
-      },
-      {
-        "title": "Esta loja é um PWA",
-        "link": "/posts/esta-loja-e-um-pwa"
-      },
-      {}
-    ],
+    "pages": [],
     "phone_wpp": true,
     "socials": true
   },
