@@ -3,6 +3,18 @@
   "meta_description": "",
   "sections": [
     {
+      "type": "banner-slider",
+      "autoplay": 9000,
+      "full_width": false,
+      "slides": [
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/2e99aa46-2b91-455e-8bc2-f5f8cd6867b1.jpeg"
+        }
+      ]
+    },
+    {
       "type": "info-bar",
       "enabled": true
     },
@@ -12,52 +24,96 @@
       "limit": 12,
       "page": 1,
       "collection_id": "625835fd3da6d37bc2dd7c6d:categories:LUBRIFICANTES:/lubrificantes",
-      "sort": "highest_price",
-      "headless": false
+      "headless": true
+    },
+    {
+      "type": "banner-slider",
+      "autoplay": 9000,
+      "full_width": false,
+      "slides": [
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/12988633-aedf-470a-b535-daa99177e2da.jpeg",
+          "link": "https://karlapaivasexshop.netlify.app/excitante"
+        }
+      ]
     },
     {
       "type": "collection-shelf",
       "shuffle": false,
       "limit": 12,
       "page": 1,
-      "collection_id": "62586db93da6d37bc2de18e5:categories:ANAL:/anal"
+      "collection_id": "62570c642e405e04ff3dd2c6:categories:EXCITANTE:/excitante",
+      "headless": true
+    },
+    {
+      "type": "banner-slider",
+      "autoplay": 9000,
+      "full_width": false,
+      "slides": [
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/9a5cf736-af98-45fe-856d-2fad160f1f9f.jpeg",
+          "link": "https://karlapaivasexshop.netlify.app/lubrificantes"
+        }
+      ]
     },
     {
       "type": "collection-shelf",
       "shuffle": false,
       "limit": 12,
       "page": 1,
-      "collection_id": "6258a9923da6d37bc2de950d:categories:ORAL:/oral"
+      "collection_id": "62586db93da6d37bc2de18e5:categories:ANAL:/anal",
+      "headless": true
+    },
+    {
+      "type": "banner-slider",
+      "autoplay": 9000,
+      "full_width": false,
+      "slides": [
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/ab2ab6bc-b1e7-4441-bd49-ebe32d7d0ed8.jpeg",
+          "link": "https://karlapaivasexshop.netlify.app/anal"
+        }
+      ]
+    },
+    {
+      "type": "banner-slider",
+      "autoplay": 9000,
+      "full_width": false,
+      "slides": [
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/8185a59b-620b-4a85-9930-69e2b3ba2006.jpeg",
+          "link": "https://karlapaivasexshop.netlify.app/vibrador"
+        }
+      ]
     },
     {
       "type": "collection-shelf",
       "shuffle": false,
       "limit": 12,
       "page": 1,
-      "collection_id": "625704a32e405e04ff3db154:categories:FANTASIAS & LINGERIES:/fantasias-e-lingeries",
-      "sort": "highest_price"
+      "collection_id": "6257060d2e405e04ff3db599:categories:VIBRADOR:/vibrador",
+      "headless": true
     },
     {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 12,
-      "page": 1,
-      "collection_id": "62570c642e405e04ff3dd2c6:categories:EXCITANTE:/excitante"
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 12,
-      "page": 1,
-      "collection_id": "6257060d2e405e04ff3db599:categories:VIBRADOR:/vibrador"
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 12,
-      "page": 1,
-      "collection_id": "625962803da6d37bc2df267c:categories:ACESSÓRIOS:/acessorios",
-      "sort": "views"
+      "type": "banner-slider",
+      "autoplay": 9000,
+      "full_width": false,
+      "slides": [
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/ec41d5ba-0eca-498f-a05e-2c32f8dca804.jpeg",
+          "link": "https://karlapaivasexshop.netlify.app/protese"
+        }
+      ]
     },
     {
       "type": "collection-shelf",
@@ -65,7 +121,62 @@
       "limit": 12,
       "page": 1,
       "collection_id": "62598fa63da6d37bc2df6964:categories:PRÓTESE:/protese",
-      "sort": "slug"
+      "headless": true
+    },
+    {
+      "type": "banner-slider",
+      "autoplay": 9000,
+      "full_width": false,
+      "slides": [
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/1fec6859-8080-46be-95cc-472b2372d5f7.jpeg",
+          "link": "https://karlapaivasexshop.netlify.app/sado"
+        }
+      ]
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "62587e2d3da6d37bc2de464c:categories:SADO:/sado",
+      "headless": true
+    },
+    {
+      "type": "banner-slider",
+      "autoplay": 9000,
+      "full_width": false,
+      "slides": [
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/1f81bd89-8ab0-4e00-b520-3d784c1044f1.jpeg",
+          "link": "https://karlapaivasexshop.netlify.app/acessorios"
+        }
+      ]
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "625962803da6d37bc2df267c:categories:ACESSÓRIOS:/acessorios",
+      "headless": true
+    },
+    {
+      "type": "banner-slider",
+      "autoplay": 9000,
+      "full_width": false,
+      "slides": [
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/df189ccf-1602-4377-82c1-6f697fda76cb.jpeg",
+          "link": "https://karlapaivasexshop.netlify.app/higiene-pessoal"
+        }
+      ]
     },
     {
       "type": "collection-shelf",
@@ -73,14 +184,20 @@
       "limit": 12,
       "page": 1,
       "collection_id": "625991fc3da6d37bc2df6d83:categories:HIGIENE PESSOAL:/higiene-pessoal",
-      "sort": "lowest_price"
+      "headless": true
     },
     {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 12,
-      "page": 1,
-      "collection_id": "62587e2d3da6d37bc2de464c:categories:SADO:/sado"
+      "type": "banner-slider",
+      "autoplay": 9000,
+      "full_width": false,
+      "slides": [
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/498d98d5-b1c1-4ffa-8b5f-a799bc982df7.jpeg",
+          "link": "https://karlapaivasexshop.netlify.app/adesivos-para-a-pele"
+        }
+      ]
     },
     {
       "type": "collection-shelf",
@@ -88,7 +205,19 @@
       "limit": 12,
       "page": 1,
       "collection_id": "626942973da6d37bc20fab63:categories:TATUAGEM TEMPORÁRIA:/adesivos-para-a-pele",
-      "sort": "offers"
+      "headless": true
+    },
+    {
+      "type": "banner-slider",
+      "autoplay": 9000,
+      "full_width": false,
+      "slides": [
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/47090bee-e147-4356-b049-32e789140b27.jpeg"
+        }
+      ]
     },
     {
       "type": "collection-shelf",
@@ -96,7 +225,7 @@
       "limit": 12,
       "page": 1,
       "collection_id": "62c2d519eb8591121673df06:categories:50% de desconto:/50-de-desconto",
-      "sort": "slug"
+      "headless": true
     }
   ]
 }
