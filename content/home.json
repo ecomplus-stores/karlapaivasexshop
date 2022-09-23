@@ -59,7 +59,8 @@
       "limit": 12,
       "page": 1,
       "collection_id": "62570c642e405e04ff3dd2c6:categories:EXCITANTE:/excitante",
-      "headless": true
+      "headless": true,
+      "sort": "highest_price"
     },
     {
       "type": "banner-slider",
