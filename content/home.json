@@ -10,19 +10,6 @@
         {
           "start": "",
           "end": "",
-          "img": "/img/uploads/ab2ab6bc-b1e7-4441-bd49-ebe32d7d0ed8.jpeg",
-          "link": "https://karlapaivasexshop.netlify.app/anal"
-        }
-      ]
-    },
-    {
-      "type": "banner-slider",
-      "autoplay": 9000,
-      "full_width": false,
-      "slides": [
-        {
-          "start": "",
-          "end": "",
           "img": "/img/uploads/b97632f7-f43d-463e-a719-1e47aedb28c4.jpeg"
         }
       ]
@@ -285,6 +272,10 @@
       "page": 1,
       "collection_id": "626942973da6d37bc20fab63:categories:TATUAGEM TEMPORÁRIA:/adesivos-para-a-pele",
       "headless": true
+    },
+    {
+      "type": "info-bar",
+      "enabled": true
     }
   ]
 }
